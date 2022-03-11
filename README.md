@@ -7,16 +7,16 @@ During this project, I analyze, prepare, and plot data in order to answer questi
 
 
 # Project Goals:
-Complete a project to add to my portfolio
-Use seaborn and Matplotlib to create visualizations
-Become familiar with presenting and sharing data visualizations
-Preprocess, explore, and analyze data
+- Complete a project to add to my portfolio
+- Use seaborn and Matplotlib to create visualizations
+- Become familiar with presenting and sharing data visualizations
+- Preprocess, explore, and analyze data
 
 
 # Knowledge required:
-Data Acquisition
-Data Visualization
-Hypothesis Testing
-Summarizing Quantitative Data
-Data Wrangling and Tidying
-Data Manipulation with Pandas
+- Data Acquisition
+- Data Visualization
+- Hypothesis Testing
+- Summarizing Quantitative Data
+- Data Wrangling and Tidying
+- Data Manipulation with Pandas
